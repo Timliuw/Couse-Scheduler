@@ -1,0 +1,1 @@
+# School-Scheduler Automated the generation of course schedules by analyzing sample data from nearly 1,000 students and the school's course information, utilizing Python libraries and modules including Pandas, Tkinter, Pickle, and Csv. 
